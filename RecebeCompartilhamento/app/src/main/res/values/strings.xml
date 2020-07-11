@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecebeCompartilhamento</string>
+    <string name="foto_string">Imagem que foi compartilhada</string>
+    <string name="texto_string">Texto que foi compartilhado</string>
+</resources>

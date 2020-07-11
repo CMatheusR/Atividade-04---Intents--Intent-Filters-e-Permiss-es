@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sharingnator</string>
+    <string name="compar_foto">Share Photo</string>
+    <string name="compar_text">Share Text</string>
+    <string name="selecionar_foto">Select Photo</string>
+</resources>
